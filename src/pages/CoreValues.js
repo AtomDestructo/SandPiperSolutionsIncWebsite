@@ -9,7 +9,7 @@ export class CoreValues extends Component {
             <>
                 <br />
                 <div class="col-12 text-center ">
-                    <div class="font-a31 w3-animate-right">Core Values</div>
+                    <div class="font-a31 text-center fs-1 w3-animate-left">Core Values</div>
                 </div>  
                 <br/>
                 <div class="row " >

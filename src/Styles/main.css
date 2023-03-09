@@ -355,6 +355,12 @@ div.textb{
    /*---------------------------------------------------------------*/
   /*---------------------------------------------------------------*/
   /*custom navbar*/
+  /*.button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 8px 25px;
+    border-radius: 4px;
+  }*/
 /*
   html {
     font-size: 62.5%;
@@ -364,13 +370,7 @@ div.textb{
     font-size: 1.6rem;
     line-height: 1.6;
   }
-  /*
-  .button {
-    display: inline-block;
-    margin-top: 20px;
-    padding: 8px 25px;
-    border-radius: 4px;
-  }*/
+
 /*
   .button-primary {
     position: relative;

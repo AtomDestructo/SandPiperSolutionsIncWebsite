@@ -19,12 +19,12 @@ export default function Navbar(){
                 <a class="navbar-brand" href="url" >
                     <img class="img-thumbnail logomain1" src="/media/logoMain.svg" width="150vh" height="150vh" alt="Main logo " />
                 </a>
-
-            <ul class="navbar-nav">
-                    <li><a href="url" class="nav-item nav-link link-light fs-4"><Link to="/">Home</Link></a></li>
-                    <li><a href="url" class="nav-item nav-link link-light fs-4"><Link to="/investors">Investor Relations</Link></a></li>
-                    <li><a href="url" class="nav-item nav-link link-light fs-4"><Link to="/subsidiaries">Subsidiaries</Link></a></li>
-                    <li><a href="url" class="nav-item nav-link link-light fs-4"><Link to="/contact">Contact Us</Link></a></li>
+{/*}
+           <ul class="navbar-nav">
+                    <li style={{listStyleType: "none"}}><a href="url" class="nav-item nav-link link-light fs-4"><Link to="/">Home</Link></a></li>
+                    <li style={{listStyleType: "none"}}><a href="url" class="nav-item nav-link link-light fs-4"><Link to="/investors">Investor Relations</Link></a></li>
+                    <li style={{listStyleType: "none"}}><a href="url" class="nav-item nav-link link-light fs-4"><Link to="/subsidiaries">Subsidiaries</Link></a></li>
+                    <li style={{listStyleType: "none"}}><a href="url" class="nav-item nav-link link-light fs-4"><Link to="/contact">Contact Us</Link></a></li>
 
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle link-light fs-4" href="url" id="navbarDropdownMenuLink" 
@@ -38,6 +38,22 @@ export default function Navbar(){
                         </ul>
                     </li>
             </ul>
+        {*/}
+            <li style={{listStyleType: "none"}}><a href="url" class="nav-item nav-link link-light fs-4 ps-2"><Link to="/">Home</Link></a></li>
+                    <li style={{listStyleType: "none"}}><a href="url" class="nav-item nav-link link-light fs-4 ps-2"><Link to="/investors">Investor Relations</Link></a></li>
+                    <li style={{listStyleType: "none"}}><a href="url" class="nav-item nav-link link-light fs-4 ps-2"><Link to="/subsidiaries">Subsidiaries</Link></a></li>
+                    <li style={{listStyleType: "none"}}><a href="url" class="nav-item nav-link link-light fs-4 ps-2"><Link to="/contact">Contact Us</Link></a></li>
+                    <li class="nav-item dropdown" style={{listStyleType: "none"}}>
+                        <a class="nav-link dropdown-toggle link-light fs-4 ps-2" href="url" id="navbarDropdownMenuLink" 
+                        role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            About Us
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <Link to="/MissionAndVision" class="dropdown-item">Our team’s mission and visions</Link>
+                            <Link to="/CoreValues" class="dropdown-item">Core Values</Link>
+                            <Link to="/OurTeam" class="dropdown-item">Our Team</Link>
+                        </ul>
+                    </li>
             </div>     
             </div>
 	</nav>
