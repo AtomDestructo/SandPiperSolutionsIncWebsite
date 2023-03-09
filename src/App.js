@@ -17,13 +17,10 @@ function App() {
                 <Pages/>
                 <ContactUs/>
                 <hr/>
-                <br />
                 <Links/>
-                <br/>
                 <hr/>
                 <LandAck/>
                 <hr/>
-                <br/>
                 <Copyright/>
             </div>
         </>
