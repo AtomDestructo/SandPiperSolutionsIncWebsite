@@ -37,7 +37,7 @@
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
-  --bs-primary-rgb: 171, 200, 230;
+  --bs-primary-rgb: 222, 229, 238;
   --bs-secondary-rgb: 108, 117, 125;
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
@@ -6771,7 +6771,7 @@ textarea.form-control-lg {
 }
 
 .link-dark {
-  color: #212529 !important;
+  color: #093B89 !important;
 }
 .link-dark:hover, .link-dark:focus {
   color: #1a1e21 !important;

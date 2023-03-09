@@ -54,7 +54,6 @@ html{
     background-color: #383e72;
     color: #ffffff;
   }
-    /* home message from our pres*/
 .font-a11 {
     font-size: 3vh !important;
     margin-left: 1rm;
@@ -75,7 +74,6 @@ html{
     }
   }
 
-    /* home message from our team*/
 .font-a12 {
     margin-left: 2rm;
     padding: 1rm;
@@ -83,9 +81,6 @@ html{
     font-weight: bolder;
     font-size: 2em;
   }
-    /* home message to our steaks*/
-    /* contact us */
-    /* land ack */
 .font-a13 {
     margin-left: 2rm;
     padding: 1rm;
@@ -93,34 +88,28 @@ html{
     font-weight: bolder;
     font-size: 2em;
   }
-  /* home sandpiper*/
 .font-a2 {
     margin-left: 1rm;
     padding: 1rm;
     color: #383e72;
     font-weight: bolder;
     font-size: 2em;
-    /*outline: thick double #32a1ce;*/
+
   }
-    /* contact us sandpiper*/
 .font-a21 {
     margin-left: 1rm;
     padding: 1rm;
     color: #383e72;
     font-weight: bolder;
     font-size: 2em;
-    /*outline: thick double #32a1ce;*/
   }
-      /* address land ack */
   .font-a22 {
     margin-left: 1rm;
     padding: 1rm;
     color: #000000;
     font-weight: bolder;
     font-size: 1em;
-    /*outline: thick double #32a1ce;*/
   }
-    /* home solutions inc*/
   .font-a3 {
     margin-left: 1rm;
     padding: 1rm;
@@ -174,12 +163,7 @@ html{
 img.logomain1{
     border-color: var(--bgcolor1);
     border-style: solid;
-    border-width: 6px;
-    border-radius: 25px;
-}
-div.bg1{
-    background-image: url(../media/blobscenebluehalfopacity.svg);
-    background-size: cover;
+    border-width: 3px;
     border-radius: 25px;
 }
 div.bg2{
@@ -194,7 +178,7 @@ div.bg3{
     background-position: center center;
 }
 div.bg4{
-    background-image: url(../media/oilicon.jpg);
+    background-image: url(../media/iconoilicon.jpg);
     background-size: 50%;
     background-repeat: no-repeat;
     background-position: center center;
@@ -214,16 +198,7 @@ div.bg6{
     background-position: center center;
     max-height: 30vh;
 }
-div.bg7{
-    background-image: url(../media/layeredpeaksblue.svg);
-    background-size: cover;
-    border-radius: 25px;
-}
-div.bg8{
-    background-image: url(../media/blobscenebluehalfopacity.svg);
-    background-size: cover;
-    border-radius: 25px;
-}
+
 div.bg9{
     background-image: url(../media/wordlogo3.svg);
     background-size: cover;
@@ -252,7 +227,7 @@ div.bg10{
 }
 
 div.bg11{
-    background-image: url(../media/mission.png);
+    background-image: url(../media/iconmission.png);
     background-size: 50%;
     background-repeat: no-repeat;
     background-position: center center;
@@ -313,12 +288,23 @@ div.bg17{
     border-radius: 25px;
 }
 
-div.bg18{
-  background-image: url(../media/banneropen.png);
+div.bg19{
+  background-image: url(../media/feathersrightblues.png);
   background-size: cover;
-  background-size: 110%;
+  background-size: 100%;
   background-repeat: no-repeat;
   background-position: center center;
+  height: auto !important;;
+  border-radius: 25px;
+
+}
+div.bg20{
+  background-image: url(../media/featherstoprightblues.png);
+  background-size: cover;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  border-radius: 25px;
 
 }
 div.colorbg{

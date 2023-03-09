@@ -6,7 +6,7 @@ export default function ContactUs(){
             <div> 
 {/* footer*/}
     <hr class="hr-a"></hr>
-    <footer className="container sbsFooter sbsTopPadding sbsBottomPadding sbsMargin">
+    <footer className="container sbsFooter sbsTopPadding sbsBottomPadding sbsMargin ">
     <div className="row justify-content-center">
         <div className="col-md-4 align-self-center orderThird">
         </div>
@@ -17,7 +17,7 @@ export default function ContactUs(){
         </div>
     </div>
 
-    <div className="row justify-content-center">
+    <div className="row justify-content-center bg19">
         <div className="col-md-4 align-self-center orderThird ">
             <img src="/media/logoMain.svg" width={"200px"} />
         </div>
