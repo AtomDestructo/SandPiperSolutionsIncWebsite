@@ -29,7 +29,7 @@ export class Disclaimer extends Component {
                         updated. If you want to make sure that you are up to date with the latest changes, we advise 
                         you to frequently visit this page.</p>
                     </div>
-                    <div class="col-3 bg16 justify-content-center font-a32 w3-animate-top" >
+                    <div class="col-3 bg16 justify-content-center font-a32 w3-animate-top hidden-pic" >
                     </div>
                 </div>
             </>

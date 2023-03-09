@@ -18,7 +18,7 @@ export default function ContactUs(){
     </div>
 
     <div className="row justify-content-center">
-        <div className="col-md-4 align-self-center orderThird">
+        <div className="col-md-4 align-self-center orderThird ">
             <img src="/media/logoMain.svg" width={"200px"} />
         </div>
         <div className="col-sm-5 align-self-center orderFirst">
@@ -32,7 +32,7 @@ export default function ContactUs(){
                 <li className="mb-2 font-a33">
                     Calgary, Alberta T2Z 0N3
                 </li>
-                <li className="mb-2 font-a33">Phone:</li>
+                <li className="mb-2 font-a33">Phone: 825-437-3153</li>
                 <li className="mb-2 font-a33">
                     Email: info@sandpiper.ca
                 </li>

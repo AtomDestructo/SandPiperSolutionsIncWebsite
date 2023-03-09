@@ -19,7 +19,7 @@ export class OurTeam extends Component {
                     <div class="col-6 text-left fs-5 fade-in-image " >
                         <p>Person 1 words</p>
                     </div>
-                    <div class="col-3 bg4 justify-content-center font-a32 w3-animate-top" >
+                    <div class="col-3 bg4 justify-content-center font-a32 w3-animate-top hidden-pic" >
                     </div>
                 </div>
                 <br/>
@@ -31,7 +31,7 @@ export class OurTeam extends Component {
                     <div class="col-6 text-left fs-5 fade-in-image " >
                         <p>Person 1 words</p>
                     </div>
-                    <div class="col-3 bg3 justify-content-center bgcolors w3-animate-top" >
+                    <div class="col-3 bg3 justify-content-center bgcolors w3-animate-top hidden-pic" >
                     </div>
                 </div>
                 <br/>
@@ -43,7 +43,7 @@ export class OurTeam extends Component {
                     <div class="col-6 text-left fs-5 fade-in-image " >
                         <p>Person 1 words</p>
                     </div>
-                    <div class="col-3 bg5 justify-content-center font-a32  w3-animate-top" >
+                    <div class="col-3 bg5 justify-content-center font-a32  w3-animate-top hidden-pic" >
                     </div>
                 </div>
                 </div>

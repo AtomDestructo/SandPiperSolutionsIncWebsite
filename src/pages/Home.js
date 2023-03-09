@@ -89,20 +89,15 @@ export class Home extends Component {
                 <div class="font-a11 w3-animate-left">Message from our Team:</div>
                 </div>
                 <div class="col-9 font-left font-a33 w3-animate-right">
-                We are a young, dynamic and diversified company who present ideas and “doing” over problems.  
-                We are an experienced team with many years of experience within different fields and studies, which makes us very unique within our market place(s).  The company is currently debt-free and is based on a fully equity type structure.  In return our dedicated team prides and focusses on growth development, cash flow and the benefits to all affected stakeholders.  
-                A message to our Stakeholders
-                
+                We are a young, dynamic, and diversified company who present ideas and “doing” over problems.  
+                We are an experienced team with many years of experience within different fields and studies, 
+                which makes us very unique within our marketplace(s).  
+                The company is currently debt-free and is based on a fully equity type structure.  
+                In return our dedicated team prides and focusses on growth development, 
+                cash flow and the benefits to all affected stakeholders.                
                 </div>
             </div>
-            <div class="row ">
-                <div class="col-3 ront-right w3-animate-left">
-                </div>
-                <div class="col-9 font-left font-a33 w3-animate-right">
-                As we pride ourselves with team, our stakeholders are our most valuable members.
-                Our stakeholders receive up to date notifications, reports and opportunities to share ideas.
-                </div>
-            </div>
+
             <br/>
             <hr/>
             <br/>
@@ -112,7 +107,7 @@ export class Home extends Component {
                 </div>
                 <div class="col-9 left font-a33 w3-animate-right" >
                 As we pride ourselves with team, our stakeholders are our most valuable members.
-            Our stakeholders receive up to date notifications, reports and opportunities to share ideas.
+            Our stakeholders receive up to date notifications, reports and opportunities to collaborate and be part of the "company" teamwork.
 
                 </div>
             </div>

@@ -28,7 +28,7 @@ export class Contact extends Component {
                         <li className="mb-2 font-a33 text-left fs-5 w3-animate-right">
                             Calgary, Alberta T2Z 0N3
                         </li>
-                        <li className="mb-2 font-a33 text-left fs-5 w3-animate-right">Phone:</li>
+                        <li className="mb-2 font-a33 text-left fs-5 w3-animate-right">Phone: 825-437-3153</li>
                         <li className="mb-2 font-a33 text-left fs-5 w3-animate-right">
                             Email: info@sandpiper.ca
                         </li>

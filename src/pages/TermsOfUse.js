@@ -52,7 +52,7 @@ a statement that you have a good faith belief that use of the objectionable mate
 a statement that the information in the notification is accurate, and under penalty of perjury, that you are either the owner of the copyright that has allegedly been infringed or that you are authorized to act on behalf of the copyright owner.</p>
                         <p>Please note that, pursuant to 17 U.S.C. § 512(f), any misrepresentation of material fact in a written notification automatically subjects the complaining party to liability for any damages, costs and attorney’s fees incurred by us in connection with the written notification and allegation of copyright infringement.</p>
                     </div>
-                    <div class="col-3 bg16 justify-content-center font-a32 w3-animate-top" >
+                    <div class="col-3 bg16 justify-content-center font-a32 w3-animate-top hidden-pic" >
                     </div>
                 </div>
             </>

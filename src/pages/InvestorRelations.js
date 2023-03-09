@@ -24,13 +24,13 @@ export class InvestorRelations extends Component {
                 </p>
                 <p>
                 We have a great track record for adding value to any dollar.  We strive on great long-term shareholder value and relationships.
-                We are a highly diversified company with high goals and expectations, creating top value for you as our shareholder.
-                We are committed to meet high demands, while keeping our people, environment safe while maximizing profits.</p>
+                We are a highly diversified company with strong moral goals and expectations, creating top value for you as our shareholder.
+                We are committed to meet high demands, keeping our people and environment safe while maximizing profits.</p>
                 <p>
-                Our leadership team is highly regarded, innovative and proud to be part of the SandPiper team.  
-                Our leaders are fearless and they too will roll up their sleeves and dive in where needed and believe in investing themselves into the company.</p>
+                Our leadership is highly regarded, innovative and proud to be part of SandPiper.  
+                Our leaders are fearless and they too will roll up their sleeves and dive in, where needed and believe in investing themselves into the company.</p>
             </div>
-        <div class="col-3 bg10 justify-content-center font-a32 fade-in-image"></div>
+        <div class="col-3 bg10 justify-content-center font-a32 fade-in-image hidden-pic"></div>
         </div>
     </div>
             </>

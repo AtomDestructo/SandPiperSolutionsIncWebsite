@@ -19,7 +19,7 @@ export class Privacy extends Component {
                         With respect to this website, SandPiper Solutions Inc. does not track, collect or distribute Personal Information about visitors to our website, except when specifically and knowingly provided by them. 
                         Data automatically gathered by software that operates our website does not personally identify individuals visiting the website.</p>
                     </div>
-                    <div class="col-3 bg16 justify-content-center font-a32 w3-animate-top" >
+                    <div class="col-3 bg16 justify-content-center font-a32 w3-animate-top hidden-pic" >
                     </div>
                 </div>
             </>

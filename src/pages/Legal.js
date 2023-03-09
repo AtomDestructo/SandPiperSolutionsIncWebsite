@@ -20,7 +20,7 @@ export class Legal extends Component {
                         <p>2</p>
                         <p>3</p>
                     </div>
-                    <div class="col-3 bg16 justify-content-center font-a32 w3-animate-top" >
+                    <div class="col-3 bg16 justify-content-center font-a32 w3-animate-top hidden-pic" >
                     </div>
                 </div>
             </>
