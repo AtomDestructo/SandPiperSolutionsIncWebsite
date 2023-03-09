@@ -2,6 +2,9 @@ import React, { Component } from "react";
 
 // Component exports the Subsidiaries page structure to be rendered in the 'App' function    <img class="img-thumbnail " src="/media/IMG_1613.jpg" width="125em" height="125em" alt="Main logo" />
 export class Subsidiaries extends Component {
+    componentDidMount() {
+        window.scrollTo(0, 0);
+    }
     render() {
         return (
             <>

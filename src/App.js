@@ -5,7 +5,6 @@ import Copyright  from "./pages/Components/Sections/Copyright.js";
 import Links  from "./pages/Components/Sections/Links.js";
 import LandAck from './pages/Components/Sections/LandAcknowledge.js';
 import Navbar from './pages/Components/Sections/Navbar.js';
-import "./JS/jquery-3.6.3.js";
 import "./Styles/bootstrap.css";
 import "./Styles/main.css";
 import "./Styles/w3.css";

@@ -2,6 +2,9 @@ import React, { Component } from "react";
 
 // Component exports the Home page structure to be rendered in the 'App' function
 export class OurTeam extends Component {
+    componentDidMount() {
+        window.scrollTo(0, 0);
+    }
     render() {
         return (
             <>

@@ -3,6 +3,9 @@ import "../Styles/main.css";
 
 // Component exports the Contact page structure to be rendered in the 'App' function
 export class Contact extends Component {
+    componentDidMount() {
+        window.scrollTo(0, 0);
+    }
     render() {
         return (
             <>
