@@ -39,7 +39,7 @@ export class Home extends Component {
       </div>
     </div>
     <div class="carousel-item ">
-      <img src="/media/grainbin.jpg" class="d-block w-100" alt="pic3"/>
+      <img src="./media/grainbin.jpg" class="d-block w-100" alt="pic3"/>
       <div class="carousel-caption d-none d-md-block">
         <h5>third slide label</h5>
         <p>Some representative placeholder content for the third slide.</p>
