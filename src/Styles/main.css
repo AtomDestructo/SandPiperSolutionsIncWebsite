@@ -17,7 +17,20 @@
     --bgcolor1: #e4730a;
     --menucolor1: #e1edfa;
 }
+
 /*---------------------------------------------------------------*/
+.button {
+  display: block;
+  width: 115px;
+  height: 25px;
+  background: #4E9CAF;
+  padding: 10px;
+  text-align: center;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  line-height: 25px;
+}
 /*---------------------------------------------------------------*/
 /* markup*/
 html{
@@ -41,7 +54,6 @@ html{
 /*---------------------------------------------------------------*/
 /* font colors*/
 /* main font color and design*/
-  /* home welcome to*/
 .font-main {
     margin-left: 2rm;
     padding: 1rm;
@@ -55,7 +67,7 @@ html{
     color: #ffffff;
   }
 .font-a11 {
-    font-size: 3vh !important;
+    font-size: 1.75vw !important;
     margin-left: 1rm;
     padding: 1rm;
     color: #e4730a;
@@ -63,14 +75,8 @@ html{
     
   }
   @media screen and (max-width: 767px) {
-    .font-a11{
-      font-size: 2vh !important;
-    }
-    .font-a21{
-      font-size: 2vh !important;
-    }
     .font-a31{
-      font-size: 2vh !important;
+      font-size: 2vw !important;
     }
   }
 
@@ -101,7 +107,7 @@ html{
     padding: 1rm;
     color: #383e72;
     font-weight: bolder;
-    font-size: 2em;
+    font-size: 2vw;
   }
   .font-a22 {
     margin-left: 1rm;
@@ -123,7 +129,7 @@ html{
     margin-left: 1vh;
     padding: 1vh;
     color: #ffffff;
-    font-size: 4vh;
+    font-size: 3vw;
     background-color: #383e72;
     border-radius: 25px;
     vertical-align: sub;
@@ -135,16 +141,16 @@ html{
     border-color:var(--bgcolor1);
   }
   .font-a33 {
-    font-size: 1.25em;
+    font-size: 1.5vw;
     padding-left: 1vw;
 
   }
   .font-a34 {
-    margin-left: .5rm;
-    padding: .5rm;
+    margin-left: .25rm;
+    padding: .25rm;
     color: #383e72;
     font-weight: bolder;
-    font-size: 2vh;
+    font-size: .5vw;
   }
  .font-right{
     text-align: right;
@@ -200,7 +206,7 @@ div.bg6{
 }
 
 div.bg9{
-    background-image: url(../media/wordlogo3.svg);
+    background-image: url(../media/wordlogo4.svg);
     background-size: cover;
     border-radius: 25px;
     background-size: 100%;
@@ -209,10 +215,9 @@ div.bg9{
     min-height:150px !important;
     max-height:150px !important;
     border: 1px solid #abc8e6;
-
 }
 div.bg10{
-    background-image: url(../media/iconinvest.png);
+    background-image: url(../media/iconhandshake3.png);
     border-radius: 25px;
     background-size: cover;
     background-size: 100%;
@@ -686,4 +691,13 @@ div.textb{
       transform: scaleY(1);
     }
   }*/
-  
+#sendButton:hover{
+  background-color: #78848b;
+}
+#sendButton{
+  background-color: #34729b;
+  font-family: 'Lustria', serif;
+  color: white;
+  font-weight: 200;
+  border-radius: 25px;
+}

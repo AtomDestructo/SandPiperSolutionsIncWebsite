@@ -1,12 +1,13 @@
-import { Link } from "react-router-dom";
-
+import MyForm from "./Form.js"
 export default function ContactUs(){
         return (
             <>
             <div> 
 {/* footer*/}
+{/*logo section*/}
     <hr class="hr-a"></hr>
     <footer className="container sbsFooter sbsTopPadding sbsBottomPadding sbsMargin ">
+{/*address section*/}
     <div className="row justify-content-center">
         <div className="col-md-4 align-self-center orderThird">
         </div>
@@ -18,8 +19,8 @@ export default function ContactUs(){
     </div>
 
     <div className="row justify-content-center bg19">
-        <div className="col-md-4 align-self-center orderThird ">
-            <img src="/media/logoMain.svg" width={"200px"} />
+        <div className="col-md-3 align-self-center orderThird ">
+            <img src="/media/logoMain.svg" width={"200px"} alt="#"/>
         </div>
         <div className="col-sm-5 align-self-center orderFirst">
             <ul className="list-unstyled">
@@ -38,35 +39,10 @@ export default function ContactUs(){
                 </li>
             </ul>
         </div>
-        <div className="col-sm-3 align-self-center orderSecond">
-                <h4 class="font-a21">Links</h4>
-                <ul className="list-unstyled">
-                    <li className="mb-2 font-a33">
-                        <Link to="/Disclaimer" className="nav-link ">
-                            Disclaimer
-                        </Link>
-                    </li>
-                    <li className="mb-2 font-a33">
-                        <Link to="/Legal" className="nav-link">
-                            Legal
-                        </Link>
-                    </li>
-                    <li className="mb-2 font-a33">
-                        <Link
-                            to="/Privacy"
-                            className="nav-link">
-                            Privacy
-                        </Link>
-                    </li>
-                    <li className="mb-2 font-a33">
-                        <Link
-                            to="/TermsOfUse"
-                            className="nav-link">
-                            Terms of Use
-                        </Link>
-                    </li>
-                </ul>
-            </div>
+{/*Form section*/}
+        <div className="col-sm-4 align-self-center orderSecond">
+            <MyForm/>
+        </div>
         </div>    
         <div>
         </div>

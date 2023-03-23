@@ -16,7 +16,7 @@ export class OurTeam extends Component {
                     <div class="col-3 text-right font-a11 w3-animate-right">
                         <div>  Person 1 </div>
                     </div>
-                    <div class="col-6 text-left fs-5 fade-in-image " >
+                    <div class="col-6 text-left font-a33 fade-in-image " >
                         <p>Person 1 words</p>
                     </div>
                     <div class="col-3 bg4 justify-content-center font-a32 w3-animate-top hidden-pic" >
@@ -28,7 +28,7 @@ export class OurTeam extends Component {
                 <div class="col-3 text-right font-a11 w3-animate-left ">
                     <div>  Person 2 </div>
                     </div>
-                    <div class="col-6 text-left fs-5 fade-in-image " >
+                    <div class="col-6 text-left font-a33 fade-in-image " >
                         <p>Person 1 words</p>
                     </div>
                     <div class="col-3 bg3 justify-content-center bgcolors w3-animate-top hidden-pic" >
@@ -40,7 +40,7 @@ export class OurTeam extends Component {
                 <div class="col-3 text-right font-a11 w3-animate-right">
                     <div>  Person 3 </div>
                     </div>
-                    <div class="col-6 text-left fs-5 fade-in-image " >
+                    <div class="col-6 text-left font-a33 fade-in-image " >
                         <p>Person 1 words</p>
                     </div>
                     <div class="col-3 bg5 justify-content-center font-a32  w3-animate-top hidden-pic" >

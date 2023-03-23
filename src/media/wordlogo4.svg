@@ -3,12 +3,12 @@
 
 <svg
    width="210mm"
-   height="31mm"
-   viewBox="0 0 210 31"
+   height="20mm"
+   viewBox="0 0 210 20"
    version="1.1"
    id="svg31385"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
-   sodipodi:docname="wordlogo3.svg"
+   sodipodi:docname="wordlogo4.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -70,7 +70,7 @@
        x2="117.15098"
        y2="15.35036"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.99992538,0,0,1.0619963,-6.8454367,3.4808281)" />
+       gradientTransform="matrix(0.99992538,0,0,1.0619963,-7.1600553,-6.1150406)" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -79,14 +79,14 @@
     <path
        id="rect2565"
        style="fill:#b4763c;stroke:#fcfcfc;stroke-width:0.263752"
-       d="m 110.0569,11.050531 h 97.88717 V 28.515178 H 110.0569 Z" />
+       d="m 109.74228,1.4546623 h 97.88717 V 18.919309 h -97.88717 z" />
     <text
        xml:space="preserve"
        style="font-size:3.175px;white-space:pre;inline-size:0;fill:#05285b;fill-opacity:0.0777202;stroke:#757575;stroke-width:0.264583"
        x="8.6762905"
        y="11.123448"
        id="text31443"
-       transform="translate(-37.439619,-11.64089)"><tspan
+       transform="translate(-37.754238,-21.236759)"><tspan
          id="tspan31441"
          style="fill:#05285b;fill-opacity:0.0777202;stroke-width:0.264583"
          x="8.6762905"
@@ -94,39 +94,28 @@
     <path
        id="rect33225"
        style="opacity:1;fill:#383e72;fill-opacity:1;stroke:url(#linearGradient36318);stroke-width:0.272651"
-       d="M 2.0526583,11.277449 H 110.16452 V 28.288257 H 2.0526583 Z" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:lustria;-inkscape-font-specification:lustria;opacity:1;fill:#000000;fill-opacity:1;stroke:#fcfcfc;stroke-width:0.264583"
-       x="3.7171423"
-       y="10.049837"
-       id="text40730"><tspan
-         sodipodi:role="line"
-         id="tspan40728"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:lustria;-inkscape-font-specification:lustria;fill:#000000;fill-opacity:1;stroke:#fcfcfc;stroke-width:0.264583"
-         x="3.7171423"
-         y="10.049837">Welcome to</tspan></text>
+       d="M 1.7380397,1.6815803 H 109.8499 V 18.692388 H 1.7380397 Z" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:lustria;-inkscape-font-specification:lustria;fill:#383e72;fill-opacity:1;stroke:#fcfcfc;stroke-width:0.264583;stroke-opacity:1"
-       x="41.536869"
-       y="23.509207"
+       x="41.222252"
+       y="13.913338"
        id="text399"><tspan
          sodipodi:role="line"
          id="tspan397"
          style="font-size:14.1111px;fill:#fcfcfc;fill-opacity:1;stroke:#fcfcfc;stroke-width:0.264583;stroke-opacity:1"
-         x="41.536869"
-         y="23.509207">SandPiper</tspan></text>
+         x="41.222252"
+         y="13.913338">SandPiper</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:lustria;-inkscape-font-specification:lustria;fill:#ffffff;fill-opacity:1;stroke:#fcfcfc;stroke-width:0.264583;stroke-opacity:1"
-       x="114.28421"
-       y="23.954145"
+       x="113.96959"
+       y="14.358276"
        id="text2511"><tspan
          sodipodi:role="line"
          id="tspan2509"
          style="fill:#ffffff;fill-opacity:1;stroke:#fcfcfc;stroke-width:0.264583;stroke-opacity:1"
-         x="114.28421"
-         y="23.954145">Solutions Inc.</tspan></text>
+         x="113.96959"
+         y="14.358276">Solutions Inc.</tspan></text>
   </g>
 </svg>

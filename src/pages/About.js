@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 
-// Component exports the About page structure to be rendered in the 'App' function
 export class About extends Component {
     render() {
         return (
