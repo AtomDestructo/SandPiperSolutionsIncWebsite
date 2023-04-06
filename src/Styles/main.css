@@ -313,6 +313,46 @@ div.bg20{
   border-radius: 25px;
 
 }
+div.bg21{
+  background-image: url(../media/teresa.svg);
+  background-size: cover;
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  border-radius: 25px;
+  min-height: 30vh !important;
+  max-height: 30vh;
+}
+div.bg22{
+  background-image: url(../media/anne.svg);
+  background-size: cover;
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  border-radius: 25px;
+  min-height: 30vh !important;
+  max-height: 30vh;
+}
+div.bg23{
+  background-image: url(../media/leif.svg);
+  background-size: cover;
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  border-radius: 25px;
+  min-height: 30vh !important;
+  max-height: 30vh;
+}
+div.bg24{
+  background-image: url(../media/elias.svg);
+  background-size: cover;
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  border-radius: 25px;
+  min-height: 30vh !important;
+  max-height: 30vh;
+}
 div.colorbg{
   background-color: #b4763c;
 }
