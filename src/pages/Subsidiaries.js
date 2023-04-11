@@ -17,8 +17,8 @@ export class Subsidiaries extends Component {
                         <div> Natural Resources: </div>
                     </div>
                     <div class="col-6 text-left font-a33 fade-in-image " >
-                        <p>At SandPiper Solutions Inc, we are proud of our extensive knowledge and expertise in low-risk oil and gas development. 
-                            Our focus is on acquiring 100% working interest assets to create maximum value for our investors and shareholders, 
+                        <p>At SandPiper Solutions Inc., we are proud of our extensive knowledge and expertise in low-risk oil and gas development. 
+                            Our focus is on acquiring 100% working interest assets to create maximum value for our investors, shareholders and shareholders, 
                             while also fostering strong relationships with the companies we acquire.      
                         </p>
                         <p>We believe in working closely with small, to medium sized companies,
@@ -29,7 +29,7 @@ export class Subsidiaries extends Component {
                             enable us to build trust and foster positive relationships with all stakeholders. 
                             As we continue to build our asset base, we remain committed to our motto of seeking 100% assets and maximizing value for all involved.
                         </p>
-                        <p>At SandPiper Solutions Inc, we are proud of our reputation for excellence in oil and gas development and our commitment to delivering value to our investors and shareholders. 
+                        <p>At SandPiper Solutions Inc., we are proud of our reputation for excellence in oil and gas development and our commitment to delivering value to our investors and shareholders. 
                             We are confident that our focus on collaboration, expertise, and integrity will continue to drive our success for years to come.
                         </p>
                     </div>
@@ -42,9 +42,9 @@ export class Subsidiaries extends Component {
                 <div class="col-3 text-right font-a11 w3-animate-left ">
                     <div>Innovative Green Initiatives: Green houses</div>
                     </div>
-                    <div class="col-6 text-left fs-5 fade-in-image " >
-                        <p>At SandPiper Solutions Inc, we are committed to sustainability and innovation in all aspects of our business. 
-                            Our greenhouse projects are designed to work hand in hand with our oil and gas assets, utilizing excess gas from the well to provide heat and support year-round food production. 
+                    <div class="col-6 text-left font-a33 fade-in-image " >
+                        <p>At SandPiper Solutions Inc., we are committed to sustainability and innovation in all aspects of our business. 
+                            Our greenhouse projects are designed to work hand in hand with our oil and gas assets, utilizing excess gas from the well(s) to provide heat and support year-round food production. 
                             This integrated approach allows us to create new employment opportunities for the community while maximizing the use of existing resources.
                         </p>
                         <p>Our focus on sustainability is driven by our commitment to responsible planning and the desire to create a truly "green" company. 
@@ -52,7 +52,7 @@ export class Subsidiaries extends Component {
                         we can establish ourselves as a leader in the green energy space and take advantage of valuable green tax credits.
                         </p>
                         <p>We believe that our commitment to sustainability and innovation will continue to drive our success and enable us to make a meaningful impact on the world around us. 
-                            At SandPiper, we are proud of our reputation for excellence in energy and food production, 
+                            At SandPiper Solutions Inc., we are proud of our reputation for excellence in energy and food production, 
                             and we remain dedicated to delivering measurable results and creating value for our stakeholders.
                         </p>
                     </div>
@@ -65,8 +65,8 @@ export class Subsidiaries extends Component {
                 <div class="col-3 text-right font-a11 w3-animate-right">
                     <div>Utility Boxes:</div>
                     </div>
-                    <div class="col-6 text-left fs-5 fade-in-image " >
-                        <p>At SandPiper Solutions Inc, we are excited to announce a world-wide opportunity that has the potential for significant growth and impact. 
+                    <div class="col-6 text-left font-a33 fade-in-image " >
+                        <p>At SandPiper Solutions Inc., we are excited to announce a world-wide opportunity that has the potential for significant growth and impact. 
                             While this project may have started small, we believe that it has the potential to become a game-changer in its sector.
                         </p>
                         <p>As we continue to expand and grow, we are actively seeking talented and dedicated staff to join our team and contribute to our success. 
@@ -80,7 +80,7 @@ export class Subsidiaries extends Component {
                             We believe that together, we can achieve great things and make a meaningful impact on the world around us.
                         </p>
                     </div>
-                    <div class="col-3 bg5 justify-content-center font-a32  w3-animate-top hidden-pic" >
+                    <div class="col-3 bg5 justify-content-center font-a32 w3-animate-top hidden-pic" >
                     </div>
                 </div>
                 <br/>
@@ -89,10 +89,9 @@ export class Subsidiaries extends Component {
                 <div class="col-3 text-right font-a11 w3-animate-left ">
                     <div>Grain Bins:</div>
                 </div>
-                    <div class="col-6 text-left fs-5 fade-in-image "  >
-                        <p>At SandPiper Solutions Inc, we are excited to announce a unique and exciting opportunity in Southern Alberta. 
-                            Our property boasts over 10 acres on a beautiful lake, with year-round access to a variety of recreational activities, 
-                            including fishing, snowshoeing, and more
+                    <div class="col-6 text-left font-a33 fade-in-image "  >
+                        <p>At SandPiper Solutions Inc., we are excited to announce a unique and exciting opportunity in Southern Alberta. 
+                            Our property boasts over 10 acres on a beautiful lake, with year-round access to a variety of recreational activities, including fishing, snowshoeing, and more.
                         </p>
                         <p>We believe that this property has immense potential for growth and development, and we are exploring a range of exciting possibilities, 
                             including the construction of grain bin cabins, a charming little store, a diner, a club house, and a variety of other amenities, including fruit wines and gift shops. 
@@ -115,7 +114,7 @@ export class Subsidiaries extends Component {
                 <div class="col-3 text-right font-a11 w3-animate-left ">
                     <div>EV: Electric Vehicles</div>
                 </div>
-                    <div class="col-6 text-left fs-5 fade-in-image "  >
+                    <div class="col-6 text-left font-a33 fade-in-image "  >
                         <p>placeholder
                         </p>
                     </div>

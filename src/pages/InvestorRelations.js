@@ -18,7 +18,7 @@ export class InvestorRelations extends Component {
             <div> Why invest with SandPiper?</div>
         </div>
         <div class="col-6 text-left font-a33 w3-animate-left" >
-                <p>At SandPiper Solutions Inc, we are proud of our track record for delivering exceptional value to our shareholders. 
+                <p>At SandPiper Solutions Inc., we are proud of our track record for delivering exceptional value to our shareholders. 
                     We are committed to building strong, long-term relationships that are grounded in shared goals, 
                     mutual respect, and a commitment to excellence. As a highly diversified company, 
                     we are uniquely positioned to deliver top value to our shareholders across a range of industries and markets.       
@@ -36,7 +36,7 @@ export class InvestorRelations extends Component {
                 and we believe that our continued success is a testament to the dedication and hard work of our entire team.
                 </p>
                 <p>
-                At SandPiper, we are committed to delivering measurable results and creating value for all of our stakeholders. 
+                At SandPiper Solutions Inc., we are committed to delivering measurable results and creating value for all of our stakeholders. 
                 We are confident that our focus on innovation, collaboration, and excellence will continue to drive our success for years to come. 
                 </p>
             </div>

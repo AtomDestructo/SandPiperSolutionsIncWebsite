@@ -21,7 +21,6 @@ export class OurTeam extends Component {
                                     <div class="col-10 left font-a21 w3-animate-right">
                                     <p>Our team is dedicated to taking on complex challenges with innovation and tenacity, always seeking to exceed expectations and deliver exceptional results.</p>
                                     <p>We promote a culture of gratitude and appreciation for one another, recognizing the important contributions that each team member makes to our collective success.</p>
-                                    <p>Collectively we saw untapped opportunity in the Western Canadian Sedimentary Basin (WCSB) and Canada’s emerging Shale Plays.</p>
                                     </div>
                                     <div class="col-1 text-right"></div>
                                 </div>
@@ -43,7 +42,8 @@ export class OurTeam extends Component {
                         <p>Executing relevant contract methodologies to effectively manage project scope and milestones, 
                             define a demonstrated and proven project management track record. 
                             Teresa is a natural planner and coordinator, as well as an experienced negotiator.</p>
-                        <p>Teresa’s multi-faceted capability allows for effectiveness in various roles such as the Land Agent, Landman, Land Administrator, and a Land Planning and Development specialist for midstream projects,
+                        <p>Teresa’s multi-faceted capability allows for effectiveness in various roles such as the Land Agent, Landman, Land Administrator, 
+                            and a Land Planning and Development specialist for midstream projects,
                             Landowner and Stakeholder relations, minerals, surface, pipelines, contracts, third parties, acquisitions, and dispositions. </p>
                             </div>{/*verbage*/}
                     <div class="col-3 bg21 justify-content-center font-a32  w3-animate-top hidden-pic" >
@@ -63,8 +63,8 @@ export class OurTeam extends Component {
                             maintenance for both the acquisition and relinquishment of assets.</p>
                         <p>Excellent land management skills and ability to motivate employees, and consultants, 
                             to achieve both internal team and company objectives are her hallmark.</p>
-                        <p>Anne served as a Board of Director for eight (8) years for the Canadian Association of Petroleum Land Administrator’s and  as Director of Technology.  
-                            Anne also sat on the Board of Director for the Public Petroleum Data Model Association (PPDM) for four (4)  
+                        <p>Anne served as a Board of Director for eight years for the Canadian Association of Petroleum Land Administrator’s and  as Director of Technology.  
+                            Anne also sat on the Board of Director for the Public Petroleum Data Model Association (PPDM) for four 
                             years and was a Co-Chair of the Land Workgroup for 10  years.</p>
                             </div>{/*verbage*/}
                     <div class="col-3 bg22 justify-content-center font-a32  w3-animate-top hidden-pic" >
@@ -79,12 +79,15 @@ export class OurTeam extends Component {
                         <div>M.Sc., PMP, SAFe® SM</div>
                     </div>{/*title*/}
                     <div class="col-6 text-left font-a33 fade-in-image " >
-                        <p>Leif has over 15 years of diverse experience in management consulting, portfolio, 
-                            program and project management and a leader in development opportunities in all sectors</p>
+                        <p>Leif has over fifteen years of diverse experience in management consulting, portfolio, program and project management 
+                            and a leader in development opportunities in all sectors.
+                            Prior to this appointment, Leif served in the Royal Canadian Navy, Berkshire Hathaway Group (Enersul), 
+                            and PricewaterhouseCoopers (PWC), overseeing budgets upwards of 122MM USD.
+                            </p>
                         <p>Leif has led all phases of Project Life Cycles including implementing complex construction projects as well as diverse software solutions. 
                             Focused on incorporating multi-disciplined team’s business priorities, 
                             and people development using the highest industry standard’s processes and technologies.</p>
-                        <p>Prior to this appointment, Leif served in the Royal Canadian Navy, Berkshire Hathaway Group (Enersul), and PricewaterhouseCoopers (PwC) overseeing budgets upwards of 122 MM USD</p>
+                        <p>Prior to this appointment, Leif served in the Royal Canadian Navy, Berkshire Hathaway Group (Enersul), and PricewaterhouseCoopers (PwC) overseeing budgets upwards of 122MM USD</p>
                     </div>{/*verbage*/}
                     <div class="col-3 bg23 justify-content-center font-a32  w3-animate-top hidden-pic" >
                     </div>{/*pic*/}
@@ -98,17 +101,34 @@ export class OurTeam extends Component {
                         <div>Meng, PEng., PMP</div>
                     </div>{/*title*/}
                     <div class="col-6 text-left font-a33 fade-in-image " >
-                        <p>20+ years building innovation in Energy, Medical, and Tech
-                        Co-Founded oil and gas pipeline traceability company (Acquired by GE Innovations)
+                        <p>Over twenty years of building innovation in Energy, Medical, and Tech
+                        Co-Founded oil and gas pipeline traceability company (Acquired by GE Innovations).
                         </p>
-                        <p>Program manager for oil and gas portfolio valued at $500M</p>
-                        <p>Grew Medtech company from 6 employees with less than $1M in revenue to 75+ employees with $25M+ in revenue</p>
-                        <p>11 Patents (License to Samsung)</p>
-                        <p>Influencer of Technology (GE, Siemens)</p>
+                        <p>Program manager for oil and gas portfolio valued at $500M.</p>
+                        <p>Grew Medtech company from six employees with less than $1M in revenue to 75+ employees with $25M+ in revenue.</p>
+                        <p>11 Patents (License to Samsung).</p>
+                        <p>Influencer of Technology (GE, Siemens).</p>
                         </div>{/*verbage*/}
                     <div class="col-3 bg24 justify-content-center font-a32  w3-animate-top hidden-pic" >
                     </div>{/*pic*/}
                 </div>{/*new row ending*/}
+
+                <hr/>
+                <div class="row " >
+                <div class="col-10 left font-a21 w3-animate-right">DIRECTOR: INFORMATION TECHNOLOGY</div>
+                    <div class="col-3 text-right font-a11 w3-animate-right">
+                        <div>Connor MacDonald,</div>
+                        <div>creds go here</div>
+                    </div>{/*title*/}
+                    <div class="col-6 text-left font-a33 fade-in-image " >
+                        <p>profile goes here
+                        </p>
+
+                        </div>{/*verbage*/}
+                    <div class="col-3  justify-content-center font-a32  w3-animate-top hidden-pic" > pic goes here
+                    </div>{/*pic*/}
+                </div>{/*new row ending*/}
+
                 </div>
                 <br/>
                 
