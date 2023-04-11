@@ -84,7 +84,7 @@ export class Home extends Component {
                     <div class="font-a11 w3-animate-left">A little about us:</div>
                 </div>
                     <div class="col-9 left font-a33 w3-animate-right">
-                    <p>At SandPiper Solutions Inc. , we are a dynamic and diversified company that prioritizes action-oriented problem-solving over obstacles. 
+                    <p>At SandPiper Solutions Inc., we are a dynamic and diversified company that prioritizes action-oriented problem-solving over obstacles. 
                       Our team is composed of seasoned professionals with extensive experience across a range of industries and academic disciplines, 
                       making us uniquely qualified to deliver innovative solutions that meet the needs of our clients and stakeholders.
                     </p>

@@ -367,8 +367,25 @@ div.textb{
     align-items: right;
 }
 
-/*---------------------------------------------------------------*/
-/*---------------------------------------------------------------*/
+/*---------------------HIDE ELEMENT------------------------------------*/
+
+.hide {display: none;}
+
+.show-more:hover + .hide {display: block;}
+
+.border{ border: 3px solid black;
+            border-radius: 25px;
+            padding: .25em;
+            width: 175px;
+            margin: auto;
+            background: #f3f3f3;
+          }
+@media screen and (min-width: 1280px) {
+  .border{
+    width: 200px;
+    }
+  }
+/*--------------------ANIMATION-----------------------------------*/
 
 /*Animation*/
 /*Animation fade in*/

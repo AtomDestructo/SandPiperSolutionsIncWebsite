@@ -2,9 +2,11 @@ import React, { Component } from "react";
 
 // Component exports the Home page structure to be rendered in the 'App' function
 export class OurTeam extends Component {
+    
     componentDidMount() {
         window.scrollTo(0, 0);
     }
+    
     render() {
         return (
             <>
@@ -39,13 +41,17 @@ export class OurTeam extends Component {
                         </div>{/*title*/}
                     <div class="col-6 text-left font-a33 fade-in-image " >
                         <p>Teresa is an innovative Project Manager and Landman becoming the first to achieve both Professional Contracts Landman and Professional Surface Landman Certifications. </p>
-                        <p>Executing relevant contract methodologies to effectively manage project scope and milestones, 
-                            define a demonstrated and proven project management track record. 
-                            Teresa is a natural planner and coordinator, as well as an experienced negotiator.</p>
-                        <p>Teresa’s multi-faceted capability allows for effectiveness in various roles such as the Land Agent, Landman, Land Administrator, 
-                            and a Land Planning and Development specialist for midstream projects,
-                            Landowner and Stakeholder relations, minerals, surface, pipelines, contracts, third parties, acquisitions, and dispositions. </p>
+                        <div class="show-more"><p class="border">Read More...</p></div>
+                            <div class="hide">                       
+                                <p>Executing relevant contract methodologies to effectively manage project scope and milestones, 
+                                define a demonstrated and proven project management track record. 
+                                Teresa is a natural planner and coordinator, as well as an experienced negotiator.</p>
+                                <p>Teresa’s multi-faceted capability allows for effectiveness in various roles such as the Land Agent, Landman, Land Administrator, 
+                                and a Land Planning and Development specialist for midstream projects,
+                                Landowner and Stakeholder relations, minerals, surface, pipelines, contracts, third parties, acquisitions, and dispositions. </p>
+                            </div>
                             </div>{/*verbage*/}
+
                     <div class="col-3 bg21 justify-content-center font-a32  w3-animate-top hidden-pic" >
                     </div>{/*pic*/}
                 </div>{/*new row ending*/}
@@ -133,6 +139,6 @@ export class OurTeam extends Component {
                 <br/>
                 
             </>
-        )
+        )      
     }
 }
