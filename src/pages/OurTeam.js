@@ -45,10 +45,18 @@ export class OurTeam extends Component {
                             <div class="hide">                       
                                 <p>Executing relevant contract methodologies to effectively manage project scope and milestones, 
                                 define a demonstrated and proven project management track record. 
-                                Teresa is a natural planner and coordinator, as well as an experienced negotiator.</p>
+                                Teresa is a natural planner and coordinator, as well as an experienced negotiator. Through roles such as Land Director for multiple projects, Teresa combines multifaceted skills in economic analysis, 
+                                budgetary finesse, and Change Management expertise. 
+                                Understanding the importance of relevant Health, Safety and Environment (HSE) Principles and Stakeholder Relations, Teresa incorporates her expertise in these principles into her mentoring and coaching. 
+                                </p>
                                 <p>Teresa’s multi-faceted capability allows for effectiveness in various roles such as the Land Agent, Landman, Land Administrator, 
                                 and a Land Planning and Development specialist for midstream projects,
                                 Landowner and Stakeholder relations, minerals, surface, pipelines, contracts, third parties, acquisitions, and dispositions. </p>
+                                <p>Not losing sight of the business criticality of diligent data/file management, contract and documentation control and up-to-date analytics results in her client focused - 
+                                    and solutions-driven Team Lead.  This experience also results in negotiations expertise to ensure operational efficiency, inter-professional relationship management. 
+                                    Teresa displays strength and excellence in effective people managing practices on large projects with budgets over $900M in the Energy and Oil and Gas industry.</p>
+                                 
+
                             </div>
                             </div>{/*verbage*/}
 
@@ -90,15 +98,16 @@ export class OurTeam extends Component {
                     <div class="col-6 text-left font-a33 fade-in-image " >
                         <p>Leif has over fifteen years of diverse experience in management consulting, portfolio, program and project management 
                             and a leader in development opportunities in all sectors.
-                            Prior to this appointment, Leif served in the Royal Canadian Navy, Berkshire Hathaway Group (Enersul), 
-                            and PricewaterhouseCoopers (PWC), overseeing budgets upwards of 122MM USD.
+                            
                             </p>
                             <div class="show-more"><p class="border">Read More...</p></div>
-                            <div class="hide">   
-                        <p>Leif has led all phases of Project Life Cycles including implementing complex construction projects as well as diverse software solutions. 
+                            <div class="hide">  
+                            <p>Prior to this appointment, Leif served in the Royal Canadian Navy, Berkshire Hathaway Group (Enersul), 
+                            and PricewaterhouseCoopers (PWC), overseeing budgets upwards of 122MM USD.</p> 
+                            <p>Leif has led all phases of Project Life Cycles including implementing complex construction projects as well as diverse software solutions. 
                             Focused on incorporating multi-disciplined team’s business priorities, 
                             and people development using the highest industry standard’s processes and technologies.</p>
-                        <p>Prior to this appointment, Leif served in the Royal Canadian Navy, Berkshire Hathaway Group (Enersul), and PricewaterhouseCoopers (PwC) overseeing budgets upwards of 122MM USD</p>
+                            <p>Prior to this appointment, Leif served in the Royal Canadian Navy, Berkshire Hathaway Group (Enersul), and PricewaterhouseCoopers (PwC) overseeing budgets upwards of 122MM USD</p>
                         </div>
                     </div>{/*verbage*/}
                     <div class="col-3 bg23 justify-content-center font-a32  w3-animate-top hidden-pic" >
