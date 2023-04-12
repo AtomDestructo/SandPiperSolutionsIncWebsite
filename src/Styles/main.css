@@ -191,7 +191,7 @@ div.bg4{
     max-height: 30vh;
 }
 div.bg5{
-    background-image: url(../media/iconutilitybox.png);
+    background-image: url(../media/utilityBox.svg);
     background-size: 50%;
     background-repeat: no-repeat;
     background-position: center center;
@@ -353,6 +353,13 @@ div.bg24{
   min-height: 30vh !important;
   max-height: 30vh;
 }
+div.bg25{
+  background-image: url(../media/evicon.svg);
+  background-size: 50%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  max-height: 30vh;
+}
 div.colorbg{
   background-color: #b4763c;
 }
@@ -369,17 +376,31 @@ div.textb{
 
 /*---------------------HIDE ELEMENT------------------------------------*/
 
-.hide {display: none;}
+.hide { display: none; }
 
-.show-more:hover + .hide {display: block;}
+.show-more:hover + .hide {
+  display: block; 
+  -webkit-animation: fadeIn 1s;
+  animation: fadeIn 1s;
+}
 
-.border{ border: 3px solid black;
-            border-radius: 25px;
-            padding: .25em;
-            width: 175px;
-            margin: auto;
-            background: #f3f3f3;
-          }
+.border{ 
+  border: 3px solid black;
+  border-radius: 25px;
+  padding: .25em;
+  width: 175px;
+  margin: auto;
+  background: #f3f3f3;
+}
+@keyframes fadeIn {
+  from { opacity: 0; }
+    to { opacity: 1; }
+}
+@-webkit-keyframes fadeIn {
+  from { opacity: 0; }
+    to { opacity: 2; }
+}
+
 @media screen and (min-width: 1280px) {
   .border{
     width: 200px;

@@ -12,7 +12,7 @@ export default function LandAck(){
                 which includes the Piikani, Kainai and Siksika
                 Nations; the Stoney-Nakoda, including the Chiniki,
                 Bearspaw and Wesley First Nations; and the Tsuut’ina
-                Nation. The City of Chestermere is also home to the
+                Nation. The City of Calgary is also home to the
                 Métis Nation of Alberta, Region 3
                 </p>
             </div>

@@ -8,6 +8,17 @@ export class Subsidiaries extends Component {
     render() {
         return (
             <>
+            <div class="container-fluid">
+                <div class="row " >
+                    <div class="col-1 text-right "></div>
+                    <div class="col-10 left font-a21 w3-animate-right">
+                    Welcome to our project management service page!! At SandPiper Solutions Inc., we understand that managing a project can be a time-consuming and complex
+                    process.  That's where we come in. We offer a range of project management services that are designed to help you achieve your goals efficiently and effectively.
+                    </div>
+                    <div class="col-1 text-right "></div>
+                </div>
+            <br/>
+            </div>
             <br />
             <div class="font-a31 text-center fs-1 w3-animate-left"> Building the Future</div>
             <hr/>
@@ -21,6 +32,8 @@ export class Subsidiaries extends Component {
                             Our focus is on acquiring 100% working interest assets to create maximum value for our investors, shareholders and shareholders, 
                             while also fostering strong relationships with the companies we acquire.      
                         </p>
+                        <div class="show-more"><p class="border">Read More...</p></div>
+                            <div class="hide">  
                         <p>We believe in working closely with small, to medium sized companies,
                          maintaining their strong values and working together to achieve a fair, win-win acquisition or disposition. 
                          This approach allows us to leverage our expertise and knowledge to the benefit of all parties involved.
@@ -32,6 +45,7 @@ export class Subsidiaries extends Component {
                         <p>At SandPiper Solutions Inc., we are proud of our reputation for excellence in oil and gas development and our commitment to delivering value to our investors and shareholders. 
                             We are confident that our focus on collaboration, expertise, and integrity will continue to drive our success for years to come.
                         </p>
+                        </div>                       
                     </div>
                     <div class="col-3 bg4 justify-content-center font-a32 w3-animate-top hidden-pic" >
                     </div>
@@ -40,13 +54,15 @@ export class Subsidiaries extends Component {
                 <hr/>
                 <div class="row " >
                 <div class="col-3 text-right font-a11 w3-animate-left ">
-                    <div>Innovative Green Initiatives: Green houses</div>
+                    <div>Innovative Green Initiatives: Green Houses</div>
                     </div>
                     <div class="col-6 text-left font-a33 fade-in-image " >
                         <p>At SandPiper Solutions Inc., we are committed to sustainability and innovation in all aspects of our business. 
                             Our greenhouse projects are designed to work hand in hand with our oil and gas assets, utilizing excess gas from the well(s) to provide heat and support year-round food production. 
                             This integrated approach allows us to create new employment opportunities for the community while maximizing the use of existing resources.
                         </p>
+                        <div class="show-more"><p class="border">Read More...</p></div>
+                            <div class="hide">  
                         <p>Our focus on sustainability is driven by our commitment to responsible planning and the desire to create a truly "green" company. 
                         By leveraging our creative solutions to combat high grocery and energy costs, 
                         we can establish ourselves as a leader in the green energy space and take advantage of valuable green tax credits.
@@ -55,6 +71,7 @@ export class Subsidiaries extends Component {
                             At SandPiper Solutions Inc., we are proud of our reputation for excellence in energy and food production, 
                             and we remain dedicated to delivering measurable results and creating value for our stakeholders.
                         </p>
+                    </div>
                     </div>
                     <div class="col-3 bg3 justify-content-center bgcolors w3-animate-top hidden-pic" >
                     </div>
@@ -69,6 +86,8 @@ export class Subsidiaries extends Component {
                         <p>At SandPiper Solutions Inc., we are excited to announce a world-wide opportunity that has the potential for significant growth and impact. 
                             While this project may have started small, we believe that it has the potential to become a game-changer in its sector.
                         </p>
+                        <div class="show-more"><p class="border">Read More...</p></div>
+                            <div class="hide">
                         <p>As we continue to expand and grow, we are actively seeking talented and dedicated staff to join our team and contribute to our success. 
                             Our team is highly collaborative and committed to excellence, and we believe that our people are our most valuable asset.
                             </p>
@@ -79,6 +98,7 @@ export class Subsidiaries extends Component {
                             we encourage you to explore our current job openings and consider joining our team. 
                             We believe that together, we can achieve great things and make a meaningful impact on the world around us.
                         </p>
+                    </div>
                     </div>
                     <div class="col-3 bg5 justify-content-center font-a32 w3-animate-top hidden-pic" >
                     </div>
@@ -93,6 +113,8 @@ export class Subsidiaries extends Component {
                         <p>At SandPiper Solutions Inc., we are excited to announce a unique and exciting opportunity in Southern Alberta. 
                             Our property boasts over 10 acres on a beautiful lake, with year-round access to a variety of recreational activities, including fishing, snowshoeing, and more.
                         </p>
+                        <div class="show-more"><p class="border">Read More...</p></div>
+                            <div class="hide">
                         <p>We believe that this property has immense potential for growth and development, and we are exploring a range of exciting possibilities, 
                             including the construction of grain bin cabins, a charming little store, a diner, a club house, and a variety of other amenities, including fruit wines and gift shops. 
                             Our goal is to create a one-of-a-kind destination that offers something for everyone, whether they are looking for a peaceful getaway, a fun family vacation, or a memorable wedding experience.
@@ -105,6 +127,7 @@ export class Subsidiaries extends Component {
                             Stay tuned for updates as we continue to explore the many possibilities of this unique and exciting opportunity.
                         </p>
                     </div>
+                    </div>
                     <div class="col-3 bg6 justify-content-center bgcolors w3-animate-top hidden-pic" >
                     </div>
                 </div>
@@ -115,13 +138,28 @@ export class Subsidiaries extends Component {
                     <div>EV: Electric Vehicles</div>
                 </div>
                     <div class="col-6 text-left font-a33 fade-in-image "  >
-                        <p>placeholder
-                        </p>
+                        <p>EV electric is a on-demand system for those who own electric vehicles.  Our  services are simple.  
+                            If you find yourself in need of a charge and you are not in range of a charger, our portable charging system is here to help.  
+                            We can give you a boost in your time of need, keeping you safe. 
+                        </p>   
                     </div>
-                    <div class="col-3 bg6 justify-content-center bgcolors w3-animate-top hidden-pic" >
+                    <div class="col-3 bg25 justify-content-center font-a32 w3-animate-top hidden-pic" > </div>
+                </div>
+                <br/>
+                <hr/>
+                <div class="row " >
+                <div class="col-3 text-right font-a11 w3-animate-left ">
+                    <div>Project Management</div>
+                </div>
+                    <div class="col-6 text-left font-a33 fade-in-image "  >
+                        <p>Finding your project low or in non-existence with project manager(s) let our team members of  Certified Project Managers, or Professional Project Managers (PMP’s) 
+                            and Certified Agile Project Managers, or PMI-ACP personnel assist you with your backlog.  
+                            We are here to problem solve and aid you, your firm and project every step of the way.  
+                        </p>   
+                    </div>
+                    <div class="col-3 bg13 justify-content-center bgcolors w3-animate-top hidden-pic" >
                     </div>
                 </div>
-
                 </div>
                 
             </>

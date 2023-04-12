@@ -67,11 +67,14 @@ export class OurTeam extends Component {
                         <p>Experience spanning  thirty-five years plus  in Land Asset Management, Negotiations and Project Management. 
                             Anne’s expertise lies in the evaluation and analysis of agreements governing exploration, development, operations, 
                             maintenance for both the acquisition and relinquishment of assets.</p>
+                            <div class="show-more"><p class="border">Read More...</p></div>
+                            <div class="hide">   
                         <p>Excellent land management skills and ability to motivate employees, and consultants, 
                             to achieve both internal team and company objectives are her hallmark.</p>
                         <p>Anne served as a Board of Director for eight years for the Canadian Association of Petroleum Land Administrator’s and  as Director of Technology.  
                             Anne also sat on the Board of Director for the Public Petroleum Data Model Association (PPDM) for four 
                             years and was a Co-Chair of the Land Workgroup for 10  years.</p>
+                            </div>
                             </div>{/*verbage*/}
                     <div class="col-3 bg22 justify-content-center font-a32  w3-animate-top hidden-pic" >
                     </div>{/*pic*/}
@@ -90,10 +93,13 @@ export class OurTeam extends Component {
                             Prior to this appointment, Leif served in the Royal Canadian Navy, Berkshire Hathaway Group (Enersul), 
                             and PricewaterhouseCoopers (PWC), overseeing budgets upwards of 122MM USD.
                             </p>
+                            <div class="show-more"><p class="border">Read More...</p></div>
+                            <div class="hide">   
                         <p>Leif has led all phases of Project Life Cycles including implementing complex construction projects as well as diverse software solutions. 
                             Focused on incorporating multi-disciplined team’s business priorities, 
                             and people development using the highest industry standard’s processes and technologies.</p>
                         <p>Prior to this appointment, Leif served in the Royal Canadian Navy, Berkshire Hathaway Group (Enersul), and PricewaterhouseCoopers (PwC) overseeing budgets upwards of 122MM USD</p>
+                        </div>
                     </div>{/*verbage*/}
                     <div class="col-3 bg23 justify-content-center font-a32  w3-animate-top hidden-pic" >
                     </div>{/*pic*/}
@@ -107,13 +113,16 @@ export class OurTeam extends Component {
                         <div>Meng, PEng., PMP</div>
                     </div>{/*title*/}
                     <div class="col-6 text-left font-a33 fade-in-image " >
-                        <p>Over twenty years of building innovation in Energy, Medical, and Tech
+                        <p>Elias has over twenty years of building innovation in Energy, Medical, and Tech
                         Co-Founded oil and gas pipeline traceability company (Acquired by GE Innovations).
                         </p>
+                        <div class="show-more"><p class="border">Read More...</p></div>
+                            <div class="hide">  
                         <p>Program manager for oil and gas portfolio valued at $500M.</p>
                         <p>Grew Medtech company from six employees with less than $1M in revenue to 75+ employees with $25M+ in revenue.</p>
                         <p>11 Patents (License to Samsung).</p>
                         <p>Influencer of Technology (GE, Siemens).</p>
+                        </div>
                         </div>{/*verbage*/}
                     <div class="col-3 bg24 justify-content-center font-a32  w3-animate-top hidden-pic" >
                     </div>{/*pic*/}
@@ -129,7 +138,9 @@ export class OurTeam extends Component {
                     <div class="col-6 text-left font-a33 fade-in-image " >
                         <p>profile goes here
                         </p>
-
+                        <div class="show-more"><p class="border">Read More...</p></div>
+                            <div class="hide">  
+                            </div>
                         </div>{/*verbage*/}
                     <div class="col-3  justify-content-center font-a32  w3-animate-top hidden-pic" > pic goes here
                     </div>{/*pic*/}

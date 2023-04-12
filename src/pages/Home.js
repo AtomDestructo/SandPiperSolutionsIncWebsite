@@ -60,18 +60,7 @@ export class Home extends Component {
 {/* welcome container */}
 <div class="container bg15">
 <div class="container">
-        <div>
-            <div class="container-fluid">
-                <div class="row " >
-                    <div class="col-1 text-right "></div>
-                    <div class="col-10 left font-a21 w3-animate-right">
-                    Welcome to our project management service page!! At SandPiper Solutions Inc., we understand that managing a project can be a time-consuming and complex
-                    process.  That's where we come in. We offer a range of project management services that are designed to help you achieve your goals efficiently and effectively.
-                    </div>
-                    <div class="col-1 text-right "></div>
-                </div>
-            <br/>
-            </div>
+      <div>
       </div>
 </div>
 {/* blurb container */}

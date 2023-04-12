@@ -28,7 +28,7 @@ export default function ContactUs(){
                     <div class="font-a21">SandPiper Solutions Inc.</div>
                 </li>
                 <li className="mb-2 font-a33">
-                    Suite 168, 315 -5155 – 130th Avenue S. E.
+                    Suite 168, 315 -5155 – 130th Avenue S.E.
                 </li>
                 <li className="mb-2 font-a33">
                     Calgary, Alberta T2Z 0N3
