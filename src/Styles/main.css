@@ -376,12 +376,12 @@ div.textb{
 
 /*---------------------HIDE ELEMENT------------------------------------*/
 
-.hide { display: none; }
+.hide { display: none;   transition-delay: 8s;}
 
 .show-more:hover + .hide {
   display: block; 
-  -webkit-animation: fadeIn 1s;
-  animation: fadeIn 1s;
+  -webkit-animation: fadeIn 2s;
+  animation: fadeIn 2s;
 }
 
 .border{ 
@@ -392,13 +392,15 @@ div.textb{
   margin: auto;
   background: #f3f3f3;
 }
+
 @keyframes fadeIn {
   from { opacity: 0; }
-    to { opacity: 2; }
+    to { opacity: 1; }
 }
 @-webkit-keyframes fadeIn {
+  
   from { opacity: 0; }
-    to { opacity: 2; }
+    to { opacity: 1; }
 }
 
 @media screen and (min-width: 1280px) {

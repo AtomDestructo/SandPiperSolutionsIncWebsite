@@ -55,8 +55,7 @@ export class OurTeam extends Component {
                                 <p>Not losing sight of the business criticality of diligent data/file management, contract and documentation control and up-to-date analytics results in her client focused - 
                                     and solutions-driven Team Lead.  This experience also results in negotiations expertise to ensure operational efficiency, inter-professional relationship management. 
                                     Teresa displays strength and excellence in effective people managing practices on large projects with budgets over $900M in the Energy and Oil and Gas industry.</p>
-                                 
-
+                                
                             </div>
                             </div>{/*verbage*/}
 
