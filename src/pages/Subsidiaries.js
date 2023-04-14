@@ -1,11 +1,11 @@
-import React, { Component } from "react";
+import React from "react";
 
 // Component exports the Subsidiaries page structure to be rendered in the 'App' function    <img class="img-thumbnail " src="/media/IMG_1613.jpg" width="125em" height="125em" alt="Main logo" />
-export class Subsidiaries extends Component {
-    componentDidMount() {
-        window.scrollTo(0, 0);
-    }
-    render() {
+
+
+        export default function Subsidiaries(){
+
+
         return (
             <>
             <div class="container-fluid">
@@ -33,7 +33,7 @@ export class Subsidiaries extends Component {
                             while also fostering strong relationships with the companies we acquire.      
                         </p>
                         <div class="show-more"><p class="border">Read More...</p></div>
-                            <div class="hide">  
+                            <div class="hide" id="hide">  
                         <p>We believe in working closely with small, to medium sized companies,
                          maintaining their strong values and working together to achieve a fair, win-win acquisition or disposition. 
                          This approach allows us to leverage our expertise and knowledge to the benefit of all parties involved.
@@ -160,11 +160,8 @@ export class Subsidiaries extends Component {
                     <div class="col-3 bg13 justify-content-center bgcolors w3-animate-top hidden-pic" >
                     </div>
                 </div>
-                </div>
-                
+                </div>          
             </>
         );
+        
     }
-}
-
-export default Subsidiaries;

@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { Routes, Route } from "react-router-dom";
 import { Home } from "./Home.js";
 import { About } from "./About";
-import { Subsidiaries } from "./Subsidiaries";
+import  Subsidiaries  from "./Subsidiaries";
 import { InvestorRelations } from "./InvestorRelations";
 import { Contact } from "./Contact";
 import { Disclaimer } from "./Disclaimer.js";
@@ -16,6 +16,9 @@ import PageNotFound from './PageNotFound.js';
 
 // Component exports the Home page structure to be rendered in the 'App' function
 export class Pages extends Component {
+    componentDidMount() {
+        window.scrollTo(0, 0);
+    }
     render() {
         return (
             <>

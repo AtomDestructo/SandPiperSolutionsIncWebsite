@@ -15,47 +15,80 @@ export class Home extends Component {
           </div>
         </div>
 {/*carousel*/}
+<div class="slider">
+	<div class="slide-track">
 
-<div id="carouselExampleIndicators" class="carousel slide carousel-fade carousel-top " data-bs-ride="carousel">
-  <div class="carousel-indicators">
-    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
-    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
-  </div>
-  
-  <div class="carousel-inner ">
-    <div class="carousel-item item active">
-      <img src="/media/greenhouse-2.jpg" class="d-block w-100" alt="pic1"/>
-      <div class="carousel-caption d-none d-md-block">
-        <h5>First slide label</h5>
-        <p>Some representative placeholder content for the first slide.</p>
-      </div>
-    </div>
-    <div class="carousel-item ">
-      <img src="/media/OIP-2.jpg" class="d-block w-100" alt="pic2"/>
-      <div class="carousel-caption d-none d-md-block">
-        <h5>second slide label</h5>
-        <p>Some representative placeholder content for the second slide.</p>
-      </div>
-    </div>
-    <div class="carousel-item ">
-      <img src="./media/grainbin.jpg" class="d-block w-100" alt="pic3"/>
-      <div class="carousel-caption d-none d-md-block">
-        <h5>third slide label</h5>
-        <p>Some representative placeholder content for the third slide.</p>
-      </div>
-    </div>
-  </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </button>
+  <div class="slide">
+    <img src="../media/proj1.svg" height="200" width="250" alt="proj1" />
+		</div>
+    <div class="slide">
+    <img src="../media/proj2.svg" height="200" width="250" alt="proj2" />
+		</div>
+    <div class="slide">
+    <img src="../media/proj3.svg" height="200" width="250" alt="proj3" />
+		</div>
+    <div class="slide">
+    <img src="../media/proj4.svg" height="200" width="250" alt="proj4" />
+		</div>
+
+    <div class="slide">
+    <img src="../media/utility1.svg" height="200" width="250" alt="utility1" />
+		</div>
+    <div class="slide">
+    <img src="../media/utility2.svg" height="200" width="250" alt="utility2" />
+		</div>
+
+
+		<div class="slide">
+    <img src="../media/electric1.svg" height="200" width="250" alt="electric1" />
+		</div>
+    <div class="slide">
+    <img src="../media/electric2.svg" height="200" width="250" alt="electric2" />
+		</div>
+    <div class="slide">
+    <img src="../media/electric3.svg" height="200" width="250" alt="electric3" />
+		</div>
+    <div class="slide">
+    <img src="../media/electric4.svg" height="200" width="250" alt="electric4" />
+		</div>
+
+    <div class="slide">
+			<img src="/media/natural1.svg" height="200" width="250" alt="natural1" />
+		</div>
+    <div class="slide">
+			<img src="/media/natural2.svg" height="200" width="250" alt="natural2" />
+		</div>
+    <div class="slide">
+			<img src="/media/natural3.svg" height="200" width="250" alt="natural3" />
+		</div>
+    <div class="slide">
+			<img src="/media/natural4.svg" height="200" width="250" alt="natural4" />
+		</div>
+
+		<div class="slide">
+			<img src="./media/grainsilo4.svg" height="200" width="250" alt="grainsilo4" />
+		</div>
+		<div class="slide">
+			<img src="../media/grainsilo1.svg" height="200" width="250" alt="grainsilo1" />
+		</div>
+		<div class="slide">
+    <img src="../media/grainsilo2.svg" height="200" width="250" alt="grainsilo2" />
+		</div>
+		<div class="slide">
+    <img src="../media/grainsilo3.svg" height="200" width="250" alt="grainsilo3" />
+		</div>
+
+		<div class="slide">
+    <img src="../media/greenhouse1.svg" height="200" width="250" alt="greenhouse1" />
+		</div>
+		<div class="slide">
+    <img src="../media/greenhouse2.svg" height="200" width="250" alt="greenhouse2" />
+		</div>
+
+
+	</div>
 </div>
-<hr/>
+
 
 {/* welcome container */}
 <div class="container bg15">

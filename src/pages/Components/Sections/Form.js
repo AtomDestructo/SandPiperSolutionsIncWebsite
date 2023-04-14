@@ -31,15 +31,15 @@ export default function ContactUs() {
         var nameFrom = document.getElementById("nameFrom").value;
         var message = document.getElementById("message").value;
 
-        if (nameFrom == ''){
+        if (nameFrom === ''){
             alert('Please enter your name');
             return false;
         }
-        if (subject == ''){
+        if (subject === ''){
             alert('Please enter a subject');
             return false;
         }
-        if (message == ''){
+        if (message === ''){
             alert('Please enter message');
             return false;
         }
