@@ -1,23 +1,9 @@
 import React from "react";
-
 // Component exports the Subsidiaries page structure to be rendered in the 'App' function    <img class="img-thumbnail " src="/media/IMG_1613.jpg" width="125em" height="125em" alt="Main logo" />
-
-
         export default function Subsidiaries(){
-
-
         return (
             <>
             <div class="container-fluid">
-                <div class="row " >
-                    <div class="col-1 text-right "></div>
-                    <div class="col-10 left font-a21 w3-animate-right">
-                    Welcome to our project management service page!! At SandPiper Solutions Inc., we understand that managing a project can be a time-consuming and complex
-                    process.  That's where we come in. We offer a range of project management services that are designed to help you achieve your goals efficiently and effectively.
-                    </div>
-                    <div class="col-1 text-right "></div>
-                </div>
-            <br/>
             </div>
             <br />
             <div class="font-a31 text-center fs-1 w3-animate-left"> Building the Future</div>
@@ -151,11 +137,15 @@ import React from "react";
                 <div class="col-3 text-right font-a11 w3-animate-left ">
                     <div>Project Management</div>
                 </div>
-                    <div class="col-6 text-left font-a33 fade-in-image "  >
+                    <div class="col-6 text-left font-a33 fade-in-image "  > 
+                        <p>
+                        At SandPiper Solutions Inc., we understand that managing a project can be a time-consuming and complex
+                        process.  That's where we come in. We offer a range of project management services that are designed to help you achieve your goals efficiently and effectively.
+                        </p> 
                         <p>Finding your project low or in non-existence with project manager(s) let our team members of  Certified Project Managers, or Professional Project Managers (PMP’s) 
                             and Certified Agile Project Managers, or PMI-ACP personnel assist you with your backlog.  
-                            We are here to problem solve and aid you, your firm and project every step of the way.  
-                        </p>   
+                            We are here to problem solve and aid you, your firm and project every step of the way.     
+                        </p> 
                     </div>
                     <div class="col-3 bg13 justify-content-center bgcolors w3-animate-top hidden-pic" >
                     </div>

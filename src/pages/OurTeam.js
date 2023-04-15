@@ -156,7 +156,7 @@ export class OurTeam extends Component {
 
                 </div>
                 <br/>
-                
+                <hr/>               
             </>
         )      
     }

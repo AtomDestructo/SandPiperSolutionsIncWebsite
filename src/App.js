@@ -2,6 +2,7 @@ import React from 'react';
 import { Pages } from "./pages/Route.js";
 import ContactUs  from "./pages/Components/Sections/ContactUs.js";
 import Copyright  from "./pages/Components/Sections/Copyright.js";
+import ToTheTop  from "./pages/Components/Sections/TopButton.js";
 import Links  from "./pages/Components/Sections/Links.js";
 import LandAck from './pages/Components/Sections/LandAcknowledge.js';
 import Navbar from './pages/Components/Sections/Navbar.js';
@@ -15,6 +16,7 @@ function App() {
             <div className="App">
                 <Navbar/>
                 <Pages/>
+                <ToTheTop/>
                 <ContactUs/>
                 <hr/>
                 <Links/>

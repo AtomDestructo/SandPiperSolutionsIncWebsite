@@ -16,9 +16,31 @@
     --secondaryTextColor:#b4763c;
     --bgcolor1: #e4730a;
     --menucolor1: #e1edfa;
+    --clr-border1: #abc8e6;
+    --clr-bg-tertiary:  rgb(255, 255, 255);
+    /*object colours*/
+    --clr-button: #ffffff;
+    --clr-button-hover: #2b39ff;
+    --clr-button-top: #40f2ff;
+    --clr-button-text: #ffffff;
+    /*text colours*/    
+    --clr-text-black: rgb(0, 0, 2);
+    --clr-text-white: rgb(255, 255, 255);
+    --clr-text-darkblue: rgb(0, 5, 54);
+    --clr-text-mint: rgb(245, 255, 250);
+    --clr-text-gray: #333;
+    /*accents and hover*/
+    --clr-accent: #F7F7FF;
+    --clr-highlight: #ffffff;
 }
+/*============================body===========================*/
+html{scroll-behavior: smooth;}
+/*=============================alignment======================*/
+.centered {position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);}
+.contents-right{margin-left: auto; margin-right: 0;}
+.contents-left{margin-right: auto; margin-left: 0;}
 
-/*---------------------------------------------------------------*/
+/*===========================button========================*/
 .button {
   display: block;
   width: 115px;
@@ -31,11 +53,31 @@
   font-weight: bold;
   line-height: 25px;
 }
-/*---------------------------------------------------------------*/
-/* markup*/
-html{
-  scroll-behavior: smooth;
+#button{ 
+  border-color: var(--clr-white); 
+  color: var(--clr-bg-tertiary);
+  border-style: solid; 
+  border: 6px; 
+  border-radius: 5px; 
 }
+#top-button{ 
+  font-size: 2vw; 
+  padding: 0 1em; margin: 0 auto; 
+  border-radius: 25px; 
+  background: var(--clr-button); 
+  cursor: pointer;
+}
+#top-button:hover{ color: var(--clr-highlight); background: var(--clr-button-hover)}
+#sendButton:hover{background-color: #78848b;}
+#sendButton{
+  background-color: #34729b;
+  font-family: 'Lustria', serif;
+  color: white;
+  font-weight: 200;
+  border-radius: 5px; 
+}
+/*==================================markup========================*/
+
 .hr-a {
   margin: 1rem 0;
   color: var(--textColor);
@@ -50,8 +92,8 @@ html{
   border-top: 10px solid;
   opacity: 0.25;
 }
-/*---------------------------------------------------------------*/
-/* font colors*/
+
+/*=================================== font colors==============================*/
 /* main font color and design*/
 .font-main {
     margin-left: 2rm;
@@ -161,9 +203,7 @@ html{
     text-align: center;
   }
 
-/*---------------------------------------------------------------*/
-
-/* backgrounds*/
+/*================================ backgrounds=========================*/
 img.logomain1{
     border-color: var(--bgcolor1);
     border-style: solid;
@@ -212,7 +252,8 @@ div.bg9{
     background-position: center center;
     min-height:150px !important;
     max-height:150px !important;
-    border: 1px solid #abc8e6;
+    border: 1px solid ;
+    border-color: var(--clr-border1);
 }
 div.bg10{
     background-image: url(../media/iconhandshake3.png);
@@ -372,7 +413,7 @@ div.textb{
     align-items: right;
 }
 
-/*---------------------HIDE ELEMENT------------------------------------*/
+/*======================HIDE ELEMENT=============================*/
 
 .hide { display: none; transition:0s 180s;}
 
@@ -408,7 +449,7 @@ div.textb{
     width: 200px;
     }
   }
-/*--------------------ANIMATION-----------------------------------*/
+/*==============================ANIMATION========================================*/
 
 /*Animation*/
 /*Animation fade in*/
@@ -424,7 +465,7 @@ div.textb{
   .w3-animate-top{position:relative;animation:animatetop 2s}@keyframes animatetop{from{top:-300px;opacity:0} to{top:0;opacity:1}}
   .w3-animate-zoom {animation:animatezoom 2s}@keyframes animatezoom{from{transform:scale(0)} to{transform:scale(1)}}
   
-   /*---------------Navbar--------------------------*/
+   /*===============================Navbar===========================*/
   .navbar .navbar-toggler.collapsed .menu-icon-bar {
     opacity: 1;
   }/*
@@ -518,18 +559,9 @@ div.textb{
     }
   }
 
-#sendButton:hover{
-  background-color: #78848b;
-}
-#sendButton{
-  background-color: #34729b;
-  font-family: 'Lustria', serif;
-  color: white;
-  font-weight: 200;
 
-}
 
-/*===================carousel ==========================================*/
+/*=================== carousel ==========================================*/
 @-webkit-keyframes scroll {
   0% {
     transform: translateX(0);
@@ -555,7 +587,9 @@ div.textb{
   overflow: hidden;
   position: relative;
   width: 100%;
-  border: 2px solid rgb(199, 200, 255);
+  border: 1px solid ;
+  border-color: var(--clr-border1);
+  border-radius: 25px;
 }
 .slider::before, .slider::after {
   background: linear-gradient(to right, white 0%, rgba(255, 255, 255, 0) 100%);
