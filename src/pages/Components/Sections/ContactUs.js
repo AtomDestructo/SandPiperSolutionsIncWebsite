@@ -6,7 +6,7 @@ export default function ContactUs(){
 {/* footer*/}
 {/*logo section*/}
     <hr class="hr-a"></hr>
-    <footer className="container sbsFooter sbsTopPadding sbsBottomPadding sbsMargin ">
+    <footer className="container ">
 {/*address section*/}
     <div className="row justify-content-center">
         <div className="col-md-4 align-self-center orderThird">
